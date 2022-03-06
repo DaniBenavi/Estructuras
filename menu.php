@@ -17,6 +17,8 @@
             <li><a class="dropdown-item" href="estructura1.php">IF ELSE</a></li>
             <li><a class="dropdown-item" href="estructura2.php">ELSE IF</a></li>
             <li><a class="dropdown-item" href="estructura3.php">SWITCH</a></li>
+            <li><a class="dropdown-item" href="estructura4.php">SWITCH version 2</a></li>
+            <li><a class="dropdown-item" href="estructura5.php">SWITCH version 3</a></li>
             <li>
               <hr class="dropdown-divider">
             </li>
