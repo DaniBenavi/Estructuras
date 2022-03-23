@@ -25,6 +25,22 @@
             <li><a class="dropdown-item" href="#">Something else here</a></li>
           </ul>
         </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Estructuras de Control repetitivas
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" href="estructura6.php">While</a></li>
+            <li><a class="dropdown-item" href="estructura7.php">DO while</a></li>
+            <li><a class="dropdown-item" href="estructura8.php">For </a></li>
+            <li><a class="dropdown-item" href="estructura9.php">Array </a></li>
+            
+            <li>
+              <hr class="dropdown-divider">
+            </li>
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+          </ul>
+        </li>
       </ul>
       <form class="d-flex">
         <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
